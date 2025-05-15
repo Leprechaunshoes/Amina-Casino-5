@@ -12,3 +12,6 @@
     "react-router-dom": "^6.11.2"
   }
 }
+"scripts": {
+  "build": "next build"
+}
